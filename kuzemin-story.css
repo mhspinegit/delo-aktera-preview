@@ -10,6 +10,3 @@
 
 /* Keep document context readable at every viewport width. */
 .story-document figcaption,.story-document figcaption span,.kuzemin-story .story-outcome .story-document figcaption{font-size:14px}.document-context{font-size:17px;line-height:1.8}.supporting-documents summary small,.channel-account summary small{font-size:14px}
-
-/* Direct links to the documents used in the story. */
-.owner-sources .source-documents{list-style:none;padding:0;margin:28px 0 0}.source-documents li{border-top:1px solid var(--line);padding:22px 0}.source-documents li:last-child{border-bottom:1px solid var(--line)}.source-documents a{display:inline-block;color:var(--wine);font-size:18px;font-weight:600;line-height:1.6;text-underline-offset:4px;overflow-wrap:anywhere}.owner-sources .source-documents p{margin:8px 0 0;font-size:15px;line-height:1.7}.source-document-meta{display:block;margin-top:4px;font-size:14px}@media(max-width:700px){.source-documents a{font-size:17px}.source-documents li{padding:20px 0}}
